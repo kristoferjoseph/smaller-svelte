@@ -1,2 +1,0 @@
-# smaller-svelte
-Begin app
